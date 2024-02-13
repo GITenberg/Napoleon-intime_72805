@@ -1,0 +1,57 @@
+_repo: Napoleon-intime_72805
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Coppée, François
+    aliases:
+    - Coppee, Francois
+    - Coppée, Francis Edouard Joachim
+    - François Coppée
+    birthdate: 1842
+    deathdate: 1908
+    gutenberg_agent_id: '1345'
+    url: http://www.gutenberg.org/2009/agents/1345
+    wikipedia:
+    - https://en.wikipedia.org/wiki/François_Coppée
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Copp%C3%A9e
+  illustrator:
+    agent_name: Detaille, Edouard
+    alias: Detaille, Édouard
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '56813'
+    url: http://www.gutenberg.org/2009/agents/56813
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%89douard_Detaille
+    - https://fr.wikipedia.org/wiki/%C3%89douard_Detaille
+creator:
+  author:
+    agent_name: Lévy, Arthur
+    alias: Levy, Arthur
+    birthdate: 1847
+    deathdate: 1931
+    gutenberg_agent_id: '56812'
+    url: http://www.gutenberg.org/2009/agents/56812
+    wikipedia: https://fr.wikipedia.org/wiki/Arthur_L%C3%A9vy
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72805'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.a0000222463
+pgterms:marc905: 20230311061740lvy
+pgterms:marc906: '1910'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bNelson, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcc 'DC'
+- GITenberg
+title: Napoléon intime
+url: http://www.gutenberg.org/ebooks/72805
