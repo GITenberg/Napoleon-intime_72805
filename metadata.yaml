@@ -24,6 +24,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/%C3%89douard_Detaille
     - https://fr.wikipedia.org/wiki/%C3%89douard_Detaille
+covers:
+- cover_type: archival
+  image_path: 72805-h/images/cover.jpg
 creator:
   author:
     agent_name: Lévy, Arthur
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56812
     wikipedia: https://fr.wikipedia.org/wiki/Arthur_L%C3%A9vy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72805#Napoleon-intime
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
